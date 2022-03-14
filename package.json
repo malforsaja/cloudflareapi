@@ -10,7 +10,7 @@
   "author": "Malfor Saja",
   "license": "ISC",
   "dependencies": {
-    "cloudflare": "^2.7.0",
+    "cloudflare": "^2.8.0",
     "express": "^4.17.2",
     "request": "^2.88.2"
   }
