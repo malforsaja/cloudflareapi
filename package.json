@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "cloudflare": "^2.8.0",
-    "express": "^4.18.0",
+    "express": "^4.18.1",
     "request": "^2.88.2"
   }
 }
